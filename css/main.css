@@ -41,3 +41,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.fstPage {
+    background-image:url("https://clipart.info/images/ccovers/1503688586Husky-PNG-Photos.png");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
