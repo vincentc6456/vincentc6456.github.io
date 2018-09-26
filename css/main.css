@@ -22,7 +22,9 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-style: italic;
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -41,7 +43,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.fstPage {
+ .fstPage {
     background-image:url("https://clipart.info/images/ccovers/1503688586Husky-PNG-Photos.png");
     /*background-color: lightgray;*/
     height: 700px;
