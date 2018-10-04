@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 1 Reflection"
-date: 2014-04-30
+date: 2018-09-21
 ---
 So far what I have been doing in class was setting up my website and I have accomplished that.
 What was most difficult/challenging was figuring out what sections of the files did what to the entire website which really confused me.
