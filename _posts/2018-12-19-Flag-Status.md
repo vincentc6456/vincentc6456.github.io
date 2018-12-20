@@ -31,5 +31,5 @@ Flag-Star = overlay-xy(WS, -45, -100, Flag-Triangle)
 
 ```
 # Program Output
-![ImageTitle](/images/Imag.png)
-This is my project, I'm somewhat proud of all the progress I have done. I spent lot of time on this and thanks to some support from my classmate, It's completel. Diffuclties were doing this on my own and the good was that I had people helping me oout
+![Image](/images/Imag.png)
+This is my project, I'm somewhat proud of all the progress I have done. I spent lot of time on this and thanks to some support from my classmate, It's completel. Diffuclties were doing this on my own and the good was that I had people helping me out
